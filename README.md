@@ -7,7 +7,7 @@ I am a mobile software engineer from Taiwan
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tengwei-huang-144a79111/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" />](http://andy02172001.blogspot.com/)
+[<img align="left" alt="blogger" src="https://img.shields.io/badge/blogger-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" />](http://andy02172001.blogspot.com/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100000153170616)
 
 <br>
