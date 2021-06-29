@@ -15,11 +15,11 @@ I am a mobile software engineer from Taiwan
 
 ## Expertise
 
-<img align="left" alt="jquery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%237952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-<img align="left" alt="ios" src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<img align="left" alt="ios" src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="jquery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=%2361DAFB" />
+<img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%237952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
 
 <br>
 <br>
